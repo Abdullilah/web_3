@@ -1,0 +1,40 @@
+.statstics .data .stats:hover i, .statstics .data .stats:hover p,
+.footer h3,
+.footer .copyright span,
+.smallNum,
+.about h1 span, .about h3 span ,
+.testimonial span
+{
+    color: #D6D448;  
+}
+
+/* Active link*/
+.navbar-inverse .navbar-nav > 
+.active > a, .navbar-inverse 
+.navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.option-box .gear-check,
+.carousel-indicators .active,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider{
+    background-color: #D6D448;   
+}
+
+.option-box .color-option,
+.testimonial .carousel-indicators li.active,
+.footer .list-icon li img:hover{
+    border: 3px solid #D6D448;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    border-top: 3px solid #D6D448;
+}
+
+.statstics .data i{
+    border-bottom: 3px dashed #D6D448;
+}
+
+
+
+
